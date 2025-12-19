@@ -3,5 +3,5 @@
 <h1 align="center">
     My name is Nguyen Hoang Thai
 </h1>
-![snake gif](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/taijinn1/taijinn1/blob/output/github-contribution-grid-snake.svg)
 
